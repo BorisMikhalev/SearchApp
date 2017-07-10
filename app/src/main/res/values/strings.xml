@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SearchApp</string>
+    <string name="wikiMedia">WikiMedia</string>
+    <string name="gitHub">GitHub</string>
+    <string name="inputMsg">Введите запрос</string>
+    <string name="loadingMsg">Загружаю данные</string>
+    <string name="workingMsg">Обрабатываю данные</string>
+    <string name="errorMsg">Ошибка при загрузке данных</string>
+    <string name="emptyMsg">Поиск не дал результатов</string>
+    <string name="incorrectMsg">Некоректное значение для поиска</string>
+    <string name="gitHubUrl">https://api.github.com/search/users?q=</string>
+    <string name="wikiMediaUrl">https://en.wikipedia.org/w/api.php?action=query&amp;format=json&amp;list=search&amp;srsearch=</string>
+    <string name="wikiMediaLimitUrl">&amp;srlimit=100&amp;sroffset=100</string>
+</resources>
